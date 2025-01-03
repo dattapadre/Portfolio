@@ -857,15 +857,14 @@ justify-content: center;
     float: left;
     background-color:blaCK;
     position:fixed;
-    z-index: 9;
+    z-index: 9px;
     display: flex;
     justify-content:center ;
     align-items: center;
 
 }
 .lodar img{
-    height:25%;
-    width: 23%;
+    height:20%;
 }
 
 
