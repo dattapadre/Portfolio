@@ -14,6 +14,7 @@ body{
     background-color: #031528;
     position: fixed;
     top: 0px;
+    z-index:-9px;
 
 }
 .header2{
